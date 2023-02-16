@@ -9,3 +9,10 @@
 
 # Undo-tree save-files
 *.~undo-tree
+
+# ELPA
+elpa/
+
+# misc files
+var/
+etc/
